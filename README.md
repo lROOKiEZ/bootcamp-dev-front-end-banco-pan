@@ -1,4 +1,4 @@
-# bootcamp-dev-front-end-banco-pan
+# BootCamp Dev FrontEnd Banco Pan
 
 # Resumos de aprendizado Git e Github
 
